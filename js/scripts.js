@@ -13,7 +13,7 @@ $(document).ready(function(){
 
   var grants;
   var html = '';
-  var url = '../NEH_Grants2010s.xml';
+  var url = 'NEH_Grants2010s.xml';
   var projectTitle = '';
   var yearAwarded = '';
   var originalAmount = '';
